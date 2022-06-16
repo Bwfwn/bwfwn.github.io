@@ -1,2 +1,2 @@
-# Quiz-App-Master
+# Quiz-App
  
